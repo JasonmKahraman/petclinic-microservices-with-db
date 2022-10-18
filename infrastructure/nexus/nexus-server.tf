@@ -1,6 +1,6 @@
 //This Terraform Template creates a Nexus server on AWS EC2 Instance
 //Nexus server will run on Amazon Linux 2 with custom security group
-//allowing SSH (22) and TCP (8081) connections from anywhere.
+//allowing SSH (22) and TCP (8081) connections from anywherels.
 
 
 terraform {
